@@ -32,7 +32,7 @@ m1.set(iRow, iColumn, value);
 std::cout << m1 << endl; // every row ends in a newline
 ```
 
-An example of the usage of this program can be found in `src/main`.
+An example of the usage of this program can be found in `src/main.cpp`.
 
 ### Compilation flags
 
